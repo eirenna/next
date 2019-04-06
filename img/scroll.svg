@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="10" viewBox="0 0 16 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d22425;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="scroll.svg" class="cls-1" d="M958.221,944.188l8.006-8.179,1.779,1.818L960,946.006Zm-6.227-6.361,1.779-1.818,8.006,8.179L960,946.006Z" transform="translate(-952 -936)"/>
+</svg>
